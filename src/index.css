@@ -1,0 +1,47 @@
+*{
+    padding: 0;
+    margin:0;
+    box-sizing: border-box;
+}
+
+
+body{
+    background-color:#f54260 ;
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+div{
+    color: #fff;
+    text-align: center;
+    font-size: 0.8rem;
+    font-family:'poppins';
+}
+
+div h2{
+    padding: 10px;
+}
+
+div button{
+   padding:10px;
+   border: none;
+   border-radius: 5px;
+   background-color:mediumpurple;
+   color: #fff;
+   font-size: 1rem;
+}
+
+div p {
+    padding: 10px;
+    font-size: 1.5rem;
+    margin-top: 10px;
+}
+
+div p b{
+    background-color: #482270;
+    padding: 10px;
+    border-radius: 15%;
+}
